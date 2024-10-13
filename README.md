@@ -3,7 +3,7 @@ Opinionated list of best practices and conventions I use in startups.
 
 For the last several years in production,
 we have been making good and bad decisions that impacted our developer experience dramatically.
-Some of them are worth sharing. 
+Some of them are worth sharing
 
 ## Contents  <!-- omit from toc -->
 - [Project Structure](#project-structure)
